@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import ipdb
+import ipdb  #!loads ipdb library (don't use quotes or semi colons)
 
 def tracing_the_function():
     inside_the_function = "We're inside the function"
